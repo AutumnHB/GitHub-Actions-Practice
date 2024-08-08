@@ -1,1 +1,3 @@
-This is exists to practice using the Github Actions functioanlity.
+This is exists to practice using the Github Actions functionality.
+This code is simply for testing features and should not be used as a reflection of my coding abilities... 
+(Unless for some reason what I program here is particularly impressive to you. Then it is a reflection.)
